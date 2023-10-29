@@ -1,8 +1,10 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* It just a Login Page
+ * Used to create this application I used ReactJS and the Styled-Components library.
+ * CSS-in-JS library for styling React components.
+ * Component-level styling.
+ * Dynamic styling based on props.
+ * Theming support for consistent styling.
+ * No class name collisions.
+ * Automatic vendor prefixing.
+ * Easy integration with React components.
+ * Scoped styles for better maintainability.
