@@ -53,7 +53,7 @@ export const MainContainer = styled.div`
   }
 `;
 
-export const WelcomeText = styled.h2`
+export const Login = styled.h2`
   margin: 3rem 0 2rem 0;
 `;
 
